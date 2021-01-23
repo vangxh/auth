@@ -11,6 +11,7 @@
             "email": "vangxh@qq.com"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Vangxh\\" : "src/"
