@@ -6,3 +6,6 @@
     2.结点权限根据角色规则 id 正负确定结点权限有无
     3.MCA之上非结点权限
     4.控制器（C）结点和操作（A）结点可以相连，如user/index
+
+    安装
+    composer require vangxh/auth:dev-main
