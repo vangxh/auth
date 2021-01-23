@@ -13,6 +13,8 @@ use think\facade\Cache;
 
 class Auth
 {
+	const VERSION = '1.0.0';
+
 	// 权限数据
 	protected static $priv = [];
 
