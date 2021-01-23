@@ -1,6 +1,5 @@
 {
     "name": "vangxh/auth",
-    "version": "1.0.0",
     "require": {
         "workerman/workerman": "^4.0",
         "topthink/think-orm": "^2.0",
