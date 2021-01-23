@@ -10,5 +10,10 @@
             "name": "wxh",
             "email": "vangxh@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vangxh\\" : "src/"
+        }
+    }
 }
